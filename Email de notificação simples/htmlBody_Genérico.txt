@@ -1,0 +1,17 @@
+<p>Prezado Usuário,</p>
+
+<p>{0} Segue o novo resultado da varredura feita durante a execução do processo de Extração de Palavras em PDF's:</p>
+
+<ol>
+    <li>Vezes que a palavra 1 apareceu: <b>{1}</b></li>
+    <li>Vezes que a palavra 2 apareceu: <b>{2}</b>
+    </li><li>Vezes que a palavra 3 apareceu: <b>{3}</b></li>
+    </li><li>Total de identificações: <b>{4}</b></li>
+</ol>
+
+
+<p>Este email foi gerado automaticamente, favor não respondê-lo.&nbsp;</p>
+
+<p>Att,</p>
+
+<p>Robozinho.</p>
